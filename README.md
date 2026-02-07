@@ -6,10 +6,6 @@ Florian Eichin
 
 ------------------------------------------
 
-Hallo Florian:
-
-## Hinweise:
-
 
 1.  Die Datenbereinigung, -transformation und Visualisierungen wurden mithilfe eines Jupyter Notebooks erstellt, welches sich im Ordner 'jupyter_notebook_accidents' befindet. In demselben Ordner befinden sich außerdem:
     - unter dash-screenshots-video: Die Screenshots zu den Visualisierungen  & video
@@ -20,5 +16,3 @@ Hallo Florian:
     - layout: Um alle Elemente zusammenzuführen
     - main.py: Durch Ausführen dieser Datei wird das dashboard gestartet. Aufgrund der Größe des Datensets ist es normal, dass das Laden beim ersten Mal etwas länger dauert (einfach Geduld haben :))
     - die dash app ist im debug mode
-    
-  Viele Grüße Laura
